@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #Loading and naming the dataset
 ```{r}
-load("C:/Users/lydia/Downloads/import.tbl_partner_general3 (2).rda")
+load("C:/Users/[name_of_author]/Downloads/import.tbl_partner_general3 (2).rda")
 ls()
 data<-import.tbl_partner_general3
 rm(import.tbl_partner_general3)
